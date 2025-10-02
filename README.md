@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>meu perfil</title>
+    <title> meu perfil </title>
 </head>
 <body>
     <h1>Joao Victor</h1>
